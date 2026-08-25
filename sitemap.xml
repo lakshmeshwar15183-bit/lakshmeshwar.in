@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://lakshmeshwar.in/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lakshmeshwar.in/assets/lakshmeshwar-pandey-profile.jpg</image:loc>
+      <image:title>Lakshmeshwar Pandey</image:title>
+      <image:caption>Lakshmeshwar Pandey</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakshmeshwar.in/assets/lakshmeshwar-pandey-family.jpg</image:loc>
+      <image:title>Lakshmeshwar Pandey with family</image:title>
+      <image:caption>Lakshmeshwar Pandey with family</image:caption>
+    </image:image>
+  </url>
+</urlset>
