@@ -7,13 +7,24 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://lakshmeshwar.in/assets/lakshmeshwar-pandey-profile.jpg</image:loc>
-      <image:title>Lakshmeshwar Pandey</image:title>
-      <image:caption>Lakshmeshwar Pandey</image:caption>
+      <image:title>Lakshmeshwar Pandey — Official Profile Photo</image:title>
+      <image:caption>Official 1080×1080 profile photo of Lakshmeshwar Pandey — Delhi University educator &amp; writer, New Delhi, India</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://lakshmeshwar.in/assets/lakshmeshwar-pandey-family.jpg</image:loc>
       <image:title>Lakshmeshwar Pandey with family</image:title>
-      <image:caption>Lakshmeshwar Pandey with family</image:caption>
+      <image:caption>Lakshmeshwar Pandey with family — Sandeep Pandey and Poonam Pandey</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://lakshmeshwar.in/image/lakshmeshwar-pandey-profile/</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://lakshmeshwar.in/assets/lakshmeshwar-pandey-profile.jpg</image:loc>
+      <image:title>Lakshmeshwar Pandey — Official Profile Photo (1080×1080)</image:title>
+      <image:caption>Official high-resolution 1080×1080 JPEG portrait of Lakshmeshwar Pandey, Delhi University BA (Hons) English &amp; BA Mathematics/History, New Delhi, India — for press, biography and Google Images.</image:caption>
     </image:image>
   </url>
 </urlset>
