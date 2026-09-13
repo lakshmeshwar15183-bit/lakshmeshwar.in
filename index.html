@@ -278,6 +278,39 @@ a.photo-wrap{display:block;text-decoration:none;color:inherit}
           letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
 .cert-arr{color:var(--gold);font-size:1rem;opacity:0;
           transition:opacity .3s,transform .35s var(--ease);margin-left:auto}
+/* — Google AI Professional Certificate — featured */
+.cert-row--featured{border-left:2px solid var(--gold)}
+.cert-badge{font-family:'Montserrat',sans-serif;font-size:.5rem;letter-spacing:.24em;
+           text-transform:uppercase;color:var(--bg);background:var(--gold);
+           padding:.32rem .7rem;border-radius:999px;flex-shrink:0;vertical-align:middle}
+.cert-meta-row{margin-top:.65rem;display:flex;gap:.7rem;flex-wrap:wrap;align-items:center}
+.cert-date{font-family:'Montserrat',sans-serif;font-size:.55rem;letter-spacing:.16em;
+           text-transform:uppercase;color:var(--muted);
+           border:1px solid var(--gold-rim);padding:.32rem .75rem;
+           background:var(--gold-fog)}
+.cert-id{font-family:'Montserrat',sans-serif;font-size:.55rem;letter-spacing:.14em;
+         color:var(--muted)}
+.cert-btn{font-family:'Montserrat',sans-serif;font-size:.58rem;letter-spacing:.18em;
+          text-transform:uppercase;color:var(--gold);
+          border:1px solid var(--gold-rim2);padding:.72rem 1.3rem;
+          background:transparent;white-space:nowrap;
+          transition:all .3s var(--ease);
+          display:inline-flex;align-items:center;gap:.45rem;flex-shrink:0}
+.cert-btn:hover{background:var(--gold);color:var(--bg);border-color:var(--gold);
+               transform:translateY(-1px)}
+.cert-share{font-family:'Montserrat',sans-serif;font-size:.55rem;letter-spacing:.14em;
+            color:var(--gold);text-decoration:none;
+            border:1px solid var(--gold-rim);padding:.32rem .75rem;
+            background:transparent;transition:all .3s var(--ease)}
+.cert-share:hover{background:var(--gold-fog);border-color:var(--gold-rim2)}
+@media(max-width:640px){
+  .cert-row{padding:1.6rem 1.2rem;gap:1rem}
+  .cert-row--featured{flex-wrap:wrap;align-items:flex-start}
+  .cert-row--featured .cert-info{flex:1 1 100%;min-width:0}
+  .cert-row--featured .cert-btn{width:100%;justify-content:center;margin-top:.2rem}
+  .cert-row--featured .cert-arr{display:none}
+  .cert-badge{font-size:.46rem;padding:.28rem .6rem}
+}
 
 /* ═══════════════════════════ WORK */
 #work-wrap{background:var(--deep)}
@@ -502,7 +535,7 @@ footer p{font-family:'Montserrat',sans-serif;font-size:.55rem;
       <div class="stat-l">Degrees in Progress</div>
     </div>
     <div class="stat rv up d2">
-      <div class="stat-n"><span class="counter" data-to="5">0</span><sup>+</sup></div>
+      <div class="stat-n"><span class="counter" data-to="6">0</span><sup>+</sup></div>
       <div class="stat-l">Certifications Earned</div>
     </div>
     <div class="stat rv up d3">
@@ -573,6 +606,24 @@ footer p{font-family:'Montserrat',sans-serif;font-size:.55rem;
     </div>
 
     <div class="cert-list" style="margin-top:3.5rem">
+      <div class="cert-row cert-row--featured rv left">
+        <span class="cert-diamond">◆</span>
+        <div class="cert-info">
+          <div class="cert-name">Google AI Professional Certificate <span style="color:var(--gold);font-size:.8rem">↗</span> <span class="cert-badge">New</span></div>
+          <div class="cert-org">Google / Coursera</div>
+          <div class="cert-meta-row">
+            <span class="cert-date">Issued September 13, 2026</span>
+            <span class="cert-id">Credential ID: F1WU4XPFBYFJ</span>
+            <a class="cert-share" href="https://coursera.org/share/2abd2f1eb5ab9c986c7202f348b36bb8" target="_blank" rel="noopener noreferrer" aria-label="Open Coursera share page (opens in new tab)">Share ↗</a>
+          </div>
+        </div>
+        <a class="cert-btn"
+           href="https://www.coursera.org/verify/professional-cert/F1WU4XPFBYFJ"
+           target="_blank" rel="noopener noreferrer"
+           aria-label="View Google AI Professional Certificate verification on Coursera (opens in new tab)"
+           title="Opens Coursera verification page — also available via share link https://coursera.org/share/2abd2f1eb5ab9c986c7202f348b36bb8">View Certificate →</a>
+        <span class="cert-arr">→</span>
+      </div>
       <div class="cert-row rv left">
         <span class="cert-diamond">◆</span>
         <div class="cert-info">
