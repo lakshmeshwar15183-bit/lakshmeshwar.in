@@ -27,4 +27,42 @@
       <image:caption>Official high-resolution 1080×1080 JPEG portrait of Lakshmeshwar Pandey, Delhi University BA (Hons) English &amp; BA Mathematics/History, New Delhi, India — for press, biography and Google Images.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://lakshmeshwar.in/apps/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://play-lh.googleusercontent.com/n-QW53YAtWssZslaXZSWGgu2ES5Kq7-HApoCNy-eSivXIxdYTg7PUgVbbUXFz69J6YKhNBF1S9YBEweSSx9mqg=w512-h512-rw</image:loc>
+      <image:title>RecallMe — Official App Icon</image:title>
+      <image:caption>RecallMe by Lakshmeshwar Pandey / Luximo Labs — offline-first lend/borrow tracker (com.recallme.recallme)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://play-lh.googleusercontent.com/Gc3XCF0rCJA8oj8z_a8c7pXqFt122fva42hADh7VjrmvNZYHkZdyaRGRFpPhviNHc_nRcSVuGjsnb3b-XnrEiiY=w512-h512-rw</image:loc>
+      <image:title>Witspark — Official App Icon</image:title>
+      <image:caption>Witspark by Lakshmeshwar Pandey / Luximo Labs — private streak companion (com.nofappro.streaker)</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://lakshmeshwar.in/apps/recallme/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://play-lh.googleusercontent.com/n-QW53YAtWssZslaXZSWGgu2ES5Kq7-HApoCNy-eSivXIxdYTg7PUgVbbUXFz69J6YKhNBF1S9YBEweSSx9mqg=w512-h512-rw</image:loc>
+      <image:title>RecallMe — Lend/Borrow Tracker by Lakshmeshwar Pandey</image:title>
+      <image:caption>RecallMe official icon — track money &amp; items, reminders, photos, offline-first. Package com.recallme.recallme</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://lakshmeshwar.in/apps/witspark/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://play-lh.googleusercontent.com/Gc3XCF0rCJA8oj8z_a8c7pXqFt122fva42hADh7VjrmvNZYHkZdyaRGRFpPhviNHc_nRcSVuGjsnb3b-XnrEiiY=w512-h512-rw</image:loc>
+      <image:title>Witspark — Behavioral Wellness App by Lakshmeshwar Pandey</image:title>
+      <image:caption>Witspark official icon — private gamified streak companion. Package com.nofappro.streaker</image:caption>
+    </image:image>
+  </url>
 </urlset>
